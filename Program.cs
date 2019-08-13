@@ -8,6 +8,8 @@ namespace Project_Euler
         {
             Problem1.Calculate();
             Problem2.Calculate();
+            Problem3.LargestPrimeFactor();
+            Problem4.LargestPalindrome();
         }
     }
 }

@@ -44,6 +44,7 @@ namespace Project_Euler
             return sum;
         }
 
+        //Solution given by Mathblog, for reference.
         static void SolutionCalculate()
         {
             long [] fib = {2,0};
